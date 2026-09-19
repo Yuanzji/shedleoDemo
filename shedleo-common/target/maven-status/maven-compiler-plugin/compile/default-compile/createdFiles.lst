@@ -1,0 +1,10 @@
+com\shedleo\common\constant\MqConstant.class
+com\shedleo\common\constant\RedisConstant.class
+com\shedleo\common\constant\OrderConstant.class
+com\shedleo\common\exception\GlobalExceptionHandler.class
+com\shedleo\common\constant\InventoryConstant.class
+com\shedleo\common\result\Result.class
+com\shedleo\common\util\SnowflakeIdGenerator.class
+com\shedleo\common\util\JwtUtil.class
+com\shedleo\common\exception\BusinessException.class
+com\shedleo\common\result\ResultCode.class

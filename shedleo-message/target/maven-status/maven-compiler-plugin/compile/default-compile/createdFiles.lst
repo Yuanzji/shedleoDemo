@@ -1,0 +1,5 @@
+com\shedleo\message\controller\MessageController.class
+com\shedleo\message\client\MessageClient.class
+com\shedleo\message\MessageApplication.class
+com\shedleo\message\config\RabbitMqConfig.class
+com\shedleo\message\mq\MessageConsumer.class

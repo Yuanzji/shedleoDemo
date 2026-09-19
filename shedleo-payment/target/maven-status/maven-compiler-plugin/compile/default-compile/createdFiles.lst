@@ -1,0 +1,5 @@
+com\shedleo\payment\config\RabbitMqConfig.class
+com\shedleo\payment\controller\PaymentController.class
+com\shedleo\payment\client\PaymentClient.class
+com\shedleo\payment\mq\PaymentConsumer.class
+com\shedleo\payment\PaymentApplication.class

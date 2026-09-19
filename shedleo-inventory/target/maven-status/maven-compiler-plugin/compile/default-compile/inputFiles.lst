@@ -1,0 +1,15 @@
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\entity\InventoryLog.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\job\StockWarnJob.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\controller\InventoryController.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\config\MyMetaObjectHandler.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\config\RabbitMqConfig.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\service\InventoryService.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\entity\PresaleSchedule.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\dto\RollbackRequest.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\dto\DeductRequest.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\entity\Inventory.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\InventoryApplication.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\mapper\InventoryLogMapper.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\mapper\InventoryMapper.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\mapper\PresaleScheduleMapper.java
+E:\AAA-Shedleo Co.,Ltd\Approved\Self\shedleoDemo\shedleo-inventory\src\main\java\com\shedleo\inventory\mq\InventoryRollbackConsumer.java

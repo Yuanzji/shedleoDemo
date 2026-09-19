@@ -1,0 +1,4 @@
+com\shedleo\user\client\UserClient.class
+com\shedleo\user\dto\UserDTO.class
+com\shedleo\user\UserApplication.class
+com\shedleo\user\controller\UserController.class

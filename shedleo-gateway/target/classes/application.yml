@@ -1,0 +1,48 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: shedleo-gateway
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+      config:
+        server-addr: 127.0.0.1:8848
+        file-extension: yaml
+        refresh-enabled: true
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      routes:
+        - id: order-route
+          uri: lb://shedleo-order
+          predicates:
+            - Path=/order/**
+          filters:
+            - StripPrefix=0
+        - id: inventory-route
+          uri: lb://shedleo-inventory
+          predicates:
+            - Path=/inventory/**
+        - id: payment-route
+          uri: lb://shedleo-payment
+          predicates:
+            - Path=/payment/**
+        - id: user-route
+          uri: lb://shedleo-user
+          predicates:
+            - Path=/user/**
+        - id: product-route
+          uri: lb://shedleo-product
+          predicates:
+            - Path=/product/**
+        - id: message-route
+          uri: lb://shedleo-message
+          predicates:
+            - Path=/message/**

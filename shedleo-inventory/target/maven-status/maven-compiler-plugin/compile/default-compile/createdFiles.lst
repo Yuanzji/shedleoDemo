@@ -1,0 +1,15 @@
+com\shedleo\inventory\entity\PresaleSchedule.class
+com\shedleo\inventory\mapper\PresaleScheduleMapper.class
+com\shedleo\inventory\dto\DeductRequest.class
+com\shedleo\inventory\entity\Inventory.class
+com\shedleo\inventory\service\InventoryService.class
+com\shedleo\inventory\controller\InventoryController.class
+com\shedleo\inventory\job\StockWarnJob.class
+com\shedleo\inventory\mq\InventoryRollbackConsumer.class
+com\shedleo\inventory\dto\RollbackRequest.class
+com\shedleo\inventory\mapper\InventoryLogMapper.class
+com\shedleo\inventory\config\RabbitMqConfig.class
+com\shedleo\inventory\config\MyMetaObjectHandler.class
+com\shedleo\inventory\entity\InventoryLog.class
+com\shedleo\inventory\InventoryApplication.class
+com\shedleo\inventory\mapper\InventoryMapper.class

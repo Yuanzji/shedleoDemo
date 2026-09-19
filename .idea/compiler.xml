@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shedleo-product" />
+        <module name="shedleo-inventory" />
+        <module name="shedleo-order" />
+        <module name="shedleo-gateway" />
+        <module name="shedleo-payment" />
+        <module name="shedleo-common" />
+        <module name="shedleo-user" />
+        <module name="shedleo-message" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shedleo-common" options="-parameters" />
+      <module name="shedleo-gateway" options="-parameters" />
+      <module name="shedleo-inventory" options="-parameters" />
+      <module name="shedleo-message" options="-parameters" />
+      <module name="shedleo-order" options="-parameters" />
+      <module name="shedleo-payment" options="-parameters" />
+      <module name="shedleo-product" options="-parameters" />
+      <module name="shedleo-user" options="-parameters" />
+      <module name="shedleoDemo" options="-parameters" />
+    </option>
+  </component>
+</project>

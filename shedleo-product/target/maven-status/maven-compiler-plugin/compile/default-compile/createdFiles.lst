@@ -1,0 +1,4 @@
+com\shedleo\product\controller\ProductController.class
+com\shedleo\product\dto\SkuDTO.class
+com\shedleo\product\ProductApplication.class
+com\shedleo\product\client\ProductClient.class
